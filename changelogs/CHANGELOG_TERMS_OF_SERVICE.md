@@ -1,0 +1,137 @@
+# Amplife® Terms of Service Change Log
+
+**About this log.** This change log identifies the material differences between each published version of the Amplife® Terms of Service and the version immediately preceding it. It is provided for transparency and reference convenience only; it does not modify, supplement, or interpret any version of the Terms of Service. The version of the Terms of Service in effect at the time of your use of the Site or your transaction governs. If this summary conflicts with the text of any version of the Terms of Service, the text of the Terms of Service controls.
+
+**How to read the notes.** Each change carries one or more tags:
+
+- **[NEW TERM]**: provision added that did not appear in the prior version
+- **[REVISED]**: existing provision materially modified
+- **[REMOVED]**: provision deleted or discontinued
+- **[CLARIFIED]**: wording made more precise with no intended change in substance
+- **[MECHANICS]**: operational change to a process, procedure, timeline, or point of contact
+- **[PROTECTS CUSTOMERS]**: change that expands customer rights, remedies, or disclosures
+- **[LEGAL COMPLIANCE]**: change adopted to align with a statute, regulation, or agency rule
+- **[DISPUTE RESOLUTION]**: change affecting claims handling, liability, governing law, or arbitration
+
+---
+
+## Version dated July 15, 2026 (Current)
+
+*In effect July 15, 2026 to present · Supersedes the version dated June 10, 2026*
+
+- **[REVISED] [MECHANICS] Parties, Site scope, and acceptance.** The introduction now identifies the operator as AMPLIFE LLC, a California limited liability company, and defines the "Site" to include amplife.co and its subdomains account.amplife.co and love.amplife.co. Acceptance is made express at account creation or checkout (the cart page states that checking out constitutes agreement to the Terms of Service (including the Disputes section), the Shipping Policy, and the Refund Policy, and the Terms disclose that the cart page's Refund Policy link opens the document titled Return Policy) while browsing without an account or purchase remains governed by the Terms.
+
+- **[REVISED] Eligibility and minors.** Purchases and account creation now require users to be at least 18 years old or the age of majority in their jurisdiction; minors may shop through a parent or guardian, and the Service is stated as not directed to children under 16. This replaces the prior age-of-majority representation, which addressed use by minor dependents with the account holder's consent.
+
+- **[REVISED] [DISPUTE RESOLUTION] Listing information.** The statement that product descriptions, pricing, and listing details "are maintained to be accurate and current" is restated as a reasonable-efforts commitment accompanied by an express statement that such details are not warranted to be error-free, with corrections governed by the errors-and-omissions section.
+
+- **[NEW TERM] [MECHANICS] [DISPUTE RESOLUTION] Who sells what on Amplife®.** The products section, retitled "Products or Services; Our Marketplace," now identifies the seller of record for every listing: vendors are the sellers of record for their listings, and Amplife® is the seller of record for listings it offers directly, including its own brands and listings sourced under authorized dealer or distribution agreements (which may be fulfilled by the authorizing distributor as shown on the listing). Amplife®'s role in providing the marketplace, checkout, and the customer remedies stated in the Return and Shipping Policies is made express; customers may raise vendor issues with the vendor or with hello@amplife.co for routing, and Amplife®'s non-responsibility for independent vendors' acts or omissions is now subject to the remedies expressly stated in the Terms and those policies.
+
+- **[NEW TERM] [LEGAL COMPLIANCE] Vendor compliance; prescription devices.** New provision allocating regulatory compliance for vendor listings to the vendor of record, including prescription verification for prescription-only devices, required safety warnings (including California Proposition 65 notices), and manufacturer warranty service. Products requiring a prescription may be purchased only by customers holding a valid prescription.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] No medical advice.** New section stating that Amplife® is a platform, not a healthcare provider; that products, services, and informational or editorial content are not a substitute for professional medical, clinical, or therapeutic advice, diagnosis, or treatment; that users should consult a qualified healthcare professional before making health-related decisions; and that reliance on any product or content is at the user's own risk.
+
+- **[NEW TERM] [REVISED] [PROTECTS CUSTOMERS] Review moderation, Verified Buyer mark, and vendor testimonials.** The Community section adds a commitment that review guidelines and enforcement are applied without regard to a review's star rating or sentiment; defines the "Verified Buyer" mark as indicating a completed purchase of the reviewed item on amplife.co; and requires testimonials or reviews provided by a vendor to be labeled "Provided by [vendor name]" and excluded from star ratings and review counts. Review and question-and-answer eligibility is broadened to $10 spent using any valid payment method (previously a valid credit or debit card).
+
+- **[REVISED] [PROTECTS CUSTOMERS] Community guidelines updates.** Community content may now be submitted in any language, with the original displayed and an automated translation possibly shown (previously content was displayed only in English). The off-platform-diversion exception is generalized from Showcase plan vendors to any vendor whose separate written agreement with Amplife® expressly permits off-platform transactions; author- and artist-specific provisions are removed; solicitation rules add that nothing of value may be conditioned on the sentiment of the content; and the enforcement statement is restated to reporting potentially unlawful conduct to law enforcement or regulators and pursuing available civil remedies.
+
+- **[NEW TERM] [PROTECTS CUSTOMERS] Synthetic media and AI-generated likenesses.** The user-submissions section adds an absolute commitment that Amplife® will not use any User Submission, or any person's name, image, likeness, or voice, to create synthetic or artificial-intelligence-generated depictions of any identifiable individual, and extends the express-consent and withdrawal terms to any identifiable individual appearing in a User Submission notwithstanding the content license. Users in turn must not upload AI-generated depictions of real, identifiable people without that person's consent, a rule mirrored in the Community guidelines.
+
+- **[NEW TERM] [LEGAL COMPLIANCE] [MECHANICS] Copyright complaints and DMCA notices.** New section adopting Digital Millennium Copyright Act procedures: required contents for infringement notices, a Designated Copyright Agent (Chief Operating Officer (Copyright Agent), AMPLIFE LLC, P.O. Box 4041, Antioch, CA 94531; 925-482-7648; dmca@amplife.co), a counter-notification process with restoration timing as the DMCA allows, and discretionary termination of repeat infringers' accounts, covering vendor listings as well as user and community content.
+
+- **[NEW TERM] [PROTECTS CUSTOMERS] Consumer Health Data Privacy Notice.** The personal-information section now references the Consumer Health Data Privacy Notice, linked in the footer of every page, which explains additional protections applied to health-related information, including disability and accessibility preferences a user chooses to share and HSA/FSA payment information.
+
+- **[REVISED] [REMOVED] [MECHANICS] HSA/FSA purchases.** HSA/FSA payment is now processed at checkout through Gale (Gale Payments, Inc.), a third-party provider, and is available only for orders with a U.S. billing address using a U.S.-issued card; eligibility flags follow the SIGIS Eligible Products List and applicable IRS rules; Letters of Medical Necessity are facilitated by Gale through licensed telehealth partners where required (previously generated by Amplife® at checkout); and final eligibility and reimbursement decisions rest with the customer's health plan, with HSA/FSA use also subject to Gale's own terms and privacy policy. The prior provision treating a plan denial as refundable where the denial resulted from an error in Amplife®'s eligibility designation is removed; denied transactions are addressed under the standard Return Policy.
+
+- **[REVISED] [DISPUTE RESOLUTION] [PROTECTS CUSTOMERS] Warranty disclaimer.** The as-is/as-available disclaimer is restated in conspicuous capitals and now excepts remedies expressly stated in the Terms, the Return Policy, and the Shipping Policy; new language preserves non-waivable rights under the Song-Beverly Consumer Warranty Act, the Magnuson-Moss Warranty Act, and other applicable consumer law; and the Return Policy controls if the section conflicts with it.
+
+- **[REVISED] [DISPUTE RESOLUTION] Limitation of liability.** The aggregate liability cap is restated from "one hundred dollars ($100.00)" to the greater of the total amounts paid to Amplife® for purchases in the twelve months preceding the claim or "five hundred dollars ($500)," and the cap and damage exclusions are stated not to apply to claims under the Consumers Legal Remedies Act or the Song-Beverly Consumer Warranty Act, to statutory damages or penalties that cannot lawfully be capped, or to liability for death or personal injury caused by Amplife®'s negligence or for fraud or fraudulent misrepresentation. The section adds that independent marketplace vendors are not covered by it and remain responsible for their own products, and "suppliers" no longer appear among the persons covered by the damages exclusion.
+
+- **[REVISED] [DISPUTE RESOLUTION] Indemnification.** The customer indemnity now applies to third-party claims only to the extent arising out of the user's User Submissions, violation of law, or infringement of third-party rights, rather than any breach of the Terms; the indemnified parties are restated as Amplife® and its affiliates, officers, directors, employees, agents, and service providers; and the obligation does not apply to the extent a claim arises from Amplife®'s own negligence or willful misconduct.
+
+- **[NEW TERM] [MECHANICS] Electronic communications and notices.** New sections establish consent to receive agreements, notices, and disclosures electronically (satisfying writing requirements, with an unsubscribe right for non-transactional messages) and designate the channels for legally effective notices (general legal notices, DMCA notices, arbitration demands and service of process, and notices from Amplife® to users) with notices effective when received.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Force majeure; assignment.** New sections excuse liability for delay or failure to perform caused by events beyond Amplife®'s reasonable control, and provide that users may not assign the Terms without prior written consent while Amplife® may assign them without restriction, including to an affiliate or in connection with a merger, acquisition, reorganization, financing, or sale of assets.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Time to bring claims.** Claims arising out of use of the Service or the Terms must now be filed within "one (1) year" after they arise, to the extent permitted by law; the limitation does not apply to claims under statutes whose limitations periods may not be contractually shortened, such as the Consumers Legal Remedies Act and the Song-Beverly Consumer Warranty Act.
+
+- **[NEW TERM] [REMOVED] [DISPUTE RESOLUTION] Order of precedence.** The entire-agreement section adds precedence rules: where the Terms conflict with the Return, Shipping, or Privacy Policy, the policy granting the more specific right on that subject controls; and for Amplife® Love participants, the Amplife® Love Participation Agreement controls disputes arising from Program participation while the Terms control storefront purchases. The sentence providing that ambiguities are not construed against the drafting party is removed.
+
+- **[REVISED] [DISPUTE RESOLUTION] [LEGAL COMPLIANCE] Governing law.** California law continues to govern, with a new proviso that the choice of law does not deprive consumers in the European Union or the United Kingdom of the protection of mandatory provisions of the law of their country of residence.
+
+- **[REVISED] [DISPUTE RESOLUTION] [MECHANICS] Arbitration procedure.** The Disputes section, retitled "Disputes; Arbitration and Class Waiver," opens with a conspicuous notice that it affects legal rights and includes an opt-out; requires a written Notice of Dispute and a 60-day good-faith informal-resolution period (during which limitations periods are paused) before either party may start arbitration; adopts the AAA Consumer Arbitration Rules then in effect (previously the AAA's rules including its Supplementary Procedures for Consumer-Related Disputes); and adds videoconference as an available hearing format. The arbitration agreement's scope is restated to cover disputes relating to use of the Service, purchases, and the Terms, with bilateral small-claims and intellectual-property-injunction carve-outs.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] [PROTECTS CUSTOMERS] Arbitration opt-out and fees.** Users may opt out of the arbitration agreement and class waiver within "30 days" after first agreeing to the Terms, or within 30 days after notice of a material change to the section, by email ("Arbitration Opt-Out") or mail, with a commitment that opting out carries no adverse treatment. For claims seeking $10,000 or less, Amplife® pays all AAA filing, administration, and arbitrator fees beyond the consumer filing fee unless the claim is found frivolous (previously, filing-fee reimbursement applied to claims within the aggregate liability cap).
+
+- **[REVISED] [REMOVED] [DISPUTE RESOLUTION] Class waiver and related terms.** The individual-basis class waiver is retained with a new provision that if it is found unenforceable as to a particular claim, only that claim proceeds in court; new provisions preserve non-waivable rights to seek public injunctive relief, provide batched administration of 25 or more coordinated arbitration demands under the AAA's Mass Arbitration Supplementary Rules (with limitations tolling for demands held in abeyance), and make the arbitration agreement inapplicable to consumers in jurisdictions where pre-dispute consumer arbitration agreements are unenforceable, including the European Union and the United Kingdom. The prior sentence waiving jury trial for claims proceeding in court is removed.
+
+- **[REVISED] [PROTECTS CUSTOMERS] Accessibility.** The accessibility commitment is restated as striving to conform to WCAG 2.2 Level AA (previously working to maintain compliance with applicable standards, including WCAG generally), adds a phone and SMS reporting channel at 925-482-7648, and commits to providing the needed information or transaction through an alternative accessible method while the barrier is addressed.
+
+- **[NEW TERM] [PROTECTS CUSTOMERS] [DISPUTE RESOLUTION] Amplife® Love and donations.** New section disclosing that purchases of eligible listings may generate a donation funded by Amplife® and, where applicable, participating vendors (not by the customer) remitted to the Amplife® Foundation, a 501(c)(3) nonprofit organization, for distribution to the Cause the customer selects; the purchase price is not increased, no portion of the payment is a charitable contribution by the customer, and no tax deduction arises. The Amplife® Foundation is designated an intended third-party beneficiary of that section and of the warranty/liability and indemnification sections, while not being a party to the Terms.
+
+- **[NEW TERM] [MECHANICS] Accounts and account security.** New section making users responsible for the confidentiality of account credentials and activity under their accounts, requiring accurate and current account information, directing prompt notice of unauthorized access to hello@amplife.co, and permitting Amplife® to suspend or limit an account where reasonably necessary to protect users or the Service.
+
+- **[NEW TERM] [LEGAL COMPLIANCE] [PROTECTS CUSTOMERS] Subscriptions and automatic renewal.** New section stating that consumer subscriptions and automatically renewing purchases are not currently offered and committing, if they are offered in the future, to clear and conspicuous pre-subscription disclosure of renewal terms, affirmative consent, a confirmation including how to cancel, an online cancellation method at least as easy as sign-up, and renewal reminders where required by law, including under California's Automatic Renewal Law.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Event terms.** New section for event-ticket listings: the organizer identified on the listing is responsible for organizing and delivering the event; tickets are subject to venue rules and entry requirements; attendees voluntarily assume the risks inherent in the activity to the extent permitted by applicable law; and refunds, cancellations, and postponements are governed by the Services and Events section of the Return Policy.
+
+- **[NEW TERM] [LEGAL COMPLIANCE] [PROTECTS CUSTOMERS] California consumer notice.** New section providing the notice required by California Civil Code Section 1789.3, including AMPLIFE LLC's mailing address, telephone number, and email, and the contact details of the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs.
+
+- **[REVISED] [PROTECTS CUSTOMERS] [MECHANICS] [DISPUTE RESOLUTION] Changes to the Terms; version archive.** Material changes now take effect only after at least 30 days' notice by email or prominent notice on the Site, non-material changes may be made by posting, and a material change to the Disputes section opens a new 30-day arbitration opt-out window; prior versions are available through the policy version archive linked in the section. This replaces update-by-posting with continued use as the sole modification mechanism.
+
+- **[CLARIFIED] Section renumbering and conforming edits.** The additions above expand the Terms from 24 to 36 numbered sections; cross-references are conformed (including references to the Return Policy by that name), and the general-conditions, billing, optional-tools, third-party-links, errors, prohibited-uses, severability, and termination provisions carry forward without substantive change.
+
+---
+
+## Version dated June 10, 2026
+
+*In effect June 10, 2026 to July 15, 2026 · Supersedes the version dated October 24, 2023*
+
+- **[REVISED] [PROTECTS CUSTOMERS] Data security.** The acknowledgment that user content other than credit card information "may be transferred unencrypted" is replaced with a statement that Secure Sockets Layer (SSL) encryption protects transmitted information, including payment and account information, together with a disclosure that no method of internet transmission is 100% secure.
+
+- **[REVISED] [PROTECTS CUSTOMERS] [DISPUTE RESOLUTION] Site information and pricing.** The statement that Amplife® is "not responsible" if site information is inaccurate is replaced: product descriptions, pricing, and listing details are maintained to be accurate and current; informational and editorial content (guides, articles, awareness resources, and community content) is provided as-is and should not be the sole basis for medical, financial, or other significant decisions; and prices are no longer stated to change "without notice," with reasonable efforts committed to displaying current pricing.
+
+- **[NEW TERM] [MECHANICS] [DISPUTE RESOLUTION] Independent vendors; marketplace facilitator.** New provision stating that vendors on the platform are independent third-party sellers (not employees, agents, or representatives of AMPLIFE LLC) that products listed by vendors are sold by those vendors directly, that Amplife® acts as a marketplace facilitator, and that Amplife® is not responsible for the acts or omissions of independent vendors except as expressly stated in the Terms, with vendor-specific issues directed to the vendor. Events are added alongside products and services in the products section, and listing terminology is introduced.
+
+- **[REVISED] Community guidelines: vendor off-platform activity.** The rule that brands and businesses may not divert customers to non-Amplife® channels adds an exception for Showcase plan vendors whose off-platform transactions are expressly permitted under their Vendor Program Agreement.
+
+- **[REVISED] [PROTECTS CUSTOMERS] User content license.** The license to comments and User Submissions is restated from a right to "fully exploit" them "without restriction" to a right to use them "in connection with operating, promoting, and improving" the platform and its services, and the license granted to other users no longer includes rights to modify or prepare derivative works of a user's submissions.
+
+- **[REMOVED] [PROTECTS CUSTOMERS] Publicity, privacy, and moral-rights waivers.** The provisions waiving privacy and publicity rights in User Submissions (including name, likeness, voice, image, and persona), waiving moral rights, releasing related claims, and permitting use of a user's name, image, voice, and likeness in advertising and marketing without prior inspection or approval are removed.
+
+- **[NEW TERM] [PROTECTS CUSTOMERS] Consent-based use of name and likeness.** Amplife® may use a user's name, image, likeness, or other identifying information to promote the platform and its community only where the user has provided express consent, which may be withdrawn at any time via hello@amplife.co; withdrawal is honored for future uses, with reasonable efforts to remove existing uses within a reasonable time.
+
+- **[NEW TERM] [MECHANICS] HSA/FSA purchases.** New section accepting Health Savings Account (HSA) and Flexible Spending Account (FSA) payment methods for eligible products: users represent that HSA/FSA funds are used only for eligible medical expenses under applicable IRS guidelines and plan terms; Amplife® generates a Letter of Medical Necessity automatically at checkout for listings designated as requiring one; eligibility verification remains the customer's responsibility; and a transaction denied by the plan administrator is not grounds for a refund beyond the standard Return Policy unless the denial resulted from an error in Amplife®'s eligibility designation of a listing.
+
+- **[REVISED] [PROTECTS CUSTOMERS] [MECHANICS] Service cancellation notice.** Service removal or cancellation is restated to occur "with reasonable notice where practicable" rather than "without notice to you."
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Aggregate liability cap.** A new limitation provides that Amplife®'s aggregate liability for all claims arising out of or related to use of the Service will not exceed "one hundred dollars ($100.00)," applied to the fullest extent permitted by applicable law; the as-is warranty disclaimer and exclusion of damages otherwise carry forward.
+
+- **[CLARIFIED] [DISPUTE RESOLUTION] Governing law.** The governing-law clause is restated as the laws of the State of California, United States (previously stated as the laws of Antioch, California U.S.).
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Binding arbitration.** New Disputes section requiring binding arbitration of any dispute relating to the Terms, administered by the American Arbitration Association under its rules, including the Supplementary Procedures for Consumer-Related Disputes, with claims qualifying for small claims court excepted and the Federal Arbitration Act and California law governing. Arbitration is begun by letter to Amplife®'s registered agent (California Registered Agent Inc., Sacramento, CA); Amplife® reimburses filing fees for claims within the aggregate liability cap and will not seek attorneys' fees and costs, in each case unless the claims are found frivolous; and the customer may choose telephone, written-submission, or in-person format in the customer's home county.
+
+- **[NEW TERM] [DISPUTE RESOLUTION] Class-action and jury-trial waiver.** All dispute-resolution proceedings must be conducted on an individual basis only, class, consolidated, and representative actions are waived; both parties waive jury trial for any claim that proceeds in court; and either party may sue in court to enjoin infringement or other misuse of intellectual property rights.
+
+- **[NEW TERM] [PROTECTS CUSTOMERS] Accessibility.** New section committing Amplife® to making the website and services accessible to the disabled community, working to maintain compliance with applicable accessibility standards including the Web Content Accessibility Guidelines (WCAG), providing a barrier-reporting channel at hello@amplife.co, and making reasonable efforts to deliver information or services through alternative means.
+
+- **[CLARIFIED] Structure and housekeeping.** Sections are renumbered to accommodate the new HSA/FSA, Disputes, and Accessibility sections (21 to 24 numbered sections); the site-creation credit in the introduction is updated; and the online-store terms, billing, optional-tools, third-party-links, prohibited-uses, indemnification, severability, termination, entire-agreement, changes, and contact provisions carry forward without substantive change.
+
+---
+
+## Version dated October 24, 2023
+
+*In effect October 24, 2023 to June 10, 2026 · Supersedes the version dated March 23, 2022*
+
+- **[CLARIFIED] Non-substantive restatement.** Brand mark updated from AMPLIFE™ to Amplife® following federal trademark registration, with isolated typographical and link-formatting corrections. No change to any customer right or obligation.
+
+---
+
+## Version dated March 23, 2022 (Initial publication of record)
+
+*In effect March 23, 2022 to October 24, 2023*
+
+- **[NEW TERM] Initial terms.** First recorded Terms of Service for the Amplife® online store: acceptance by using the site or making a purchase, with updates effective upon posting and continued use constituting acceptance; online store terms including an age-of-majority representation and lawful-use requirements; general conditions including the right to refuse service; disclaimers regarding the accuracy, completeness, and timeliness of site information; modification of the Service and prices without notice; products and services subject to the Return Policy; billing and account-information accuracy and order limits; optional third-party tools and third-party links provided without warranty; Community guidelines for reviews, questions and answers, lists, and abuse reports (including a $10 purchase threshold for reviews, content and conduct rules, and enforcement measures); a broad, perpetual license to user comments and User Submissions accompanied by waivers of publicity, privacy, and moral rights; a Privacy Policy reference; errors and omissions; enumerated prohibited uses; an as-is disclaimer of warranties and exclusion of damages with no stated dollar cap; customer indemnification; severability; termination; an entire-agreement clause; governing law stated as the laws of Antioch, California; changes to the Terms by posting; and contact at hello@amplife.co.
+
+---
+
