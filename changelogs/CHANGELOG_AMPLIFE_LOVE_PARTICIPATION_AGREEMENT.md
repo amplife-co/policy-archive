@@ -15,9 +15,13 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated June 30, 2026*
+*In effect July 23, 2026 to present · Supersedes the version dated June 30, 2026*
+
+- **[CLARIFIED] Cause Content, by any means.** The definition of Cause Content now expressly covers materials you provide by any means, including email, the Cause Portal, file-sharing links or folders such as Google Drive or Dropbox, and photo or media libraries such as Flickr, including materials added to a folder or library you share with us while your participation continues.
+
+- **[NEW TERM] Cross-program removal.** If Amplife® permanently removes a participant from any Amplife® program for violating that program's terms, the removal applies across all Amplife® programs.
 
 - **[NEW TERM] [MECHANICS] [DISPUTE RESOLUTION] Program documents and Team Store Donations.** The definition of "Donations" now covers, in addition to amounts from Love Link sales, amounts generated for a Cause under any Service Terms, rider, schedule, or other program document adopted under the Participation Agreement (for example, "Team Store donations"), at the rates stated in those documents. All such amounts are Donations for all purposes of the agreement, including the Section 7 donation mechanics, the Section 8 privacy commitments, and the Section 12 limitation of liability.
 

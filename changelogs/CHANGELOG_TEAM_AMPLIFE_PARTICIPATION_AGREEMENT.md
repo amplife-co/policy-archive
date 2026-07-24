@@ -15,9 +15,13 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated June 10, 2026*
+*In effect July 23, 2026 to present · Supersedes the version dated June 10, 2026*
+
+- **[CLARIFIED] Ambassador Content, by any means.** The Ambassador Content license now expressly covers materials provided by any means, including email, your submissions, file-sharing links or folders such as Google Drive or Dropbox, and photo or media libraries such as Flickr, including materials added to a folder or library you share with us while participation continues.
+
+- **[NEW TERM] Cross-program removal.** If Amplife® permanently removes a participant from any Amplife® program for violating that program's terms, the removal applies across all Amplife® programs.
 
 - **[REVISED] Complete restatement.** The agreement was rewritten end to end into an expanded structure: a larger Definitions section (adding "Affiliate," "Amplife Owned Channels," "Co-Created Content," and "Consent Release"), Program Policies reorganized as Sections 3.1 through 3.10 (licenses; submissions; trademark guidelines; optional promotion; customer interaction; order reversals and verification; unacceptable practices; co-created content; consent, review, withdrawal, and children; no synthetic or AI use), and new or restated sections for FTC Endorsement Disclosures, Governing Law and International Participation, and a Schedule A on Vendor Referral Rewards. The items below are the substantive changes made within that restatement.
 

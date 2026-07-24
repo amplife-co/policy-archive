@@ -15,9 +15,13 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated June 10, 2026*
+*In effect July 23, 2026 to present · Supersedes the version dated June 10, 2026*
+
+- **[CLARIFIED] Vendor Content, by any means.** The Vendor Content definition now expressly covers materials provided by any means, including email, the Vendor Portal, file-sharing links or folders such as Google Drive or Dropbox, and photo or media libraries such as Flickr, including materials added to a folder or library you share with us while participation continues.
+
+- **[NEW TERM] Cross-program removal.** If Amplife® permanently removes a participant from any Amplife® program for violating that program's terms, the removal applies across all Amplife® programs.
 
 - **[NEW TERM] [DISPUTE RESOLUTION] Amplife® Foundation defined.** New definition describes the Amplife® Foundation as the 501(c)(3) nonprofit organization through which all Amplife® Love donation amounts are processed and distributed to Causes, and states that it is a separate organization, is not under common control with AMPLIFE LLC, is not an Affiliate, is not a party to the Agreement, and signs nothing, while making it an intended third-party beneficiary entitled to the indemnification in Section 6, the disclaimers in Section 7, and the limitation of liability in Section 8, and confirming it holds no right, title, or interest in vendor content. "We," "us," and "Amplife®" are expressly stated not to include the Foundation, the Foundation is added to the parties covered by the vendor's indemnification, and Relationship of Parties (Section 13) restates the beneficiary status and now also excepts the limited payments agency described in the applicable Service Terms from the no-agency rule.
 

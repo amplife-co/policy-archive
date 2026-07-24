@@ -15,9 +15,13 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated June 23, 2025*
+*In effect July 23, 2026 to present · Supersedes the version dated June 23, 2025*
+
+- **[REVISED] [MECHANICS] Listing Type certification cadence.** Annual re-certification is replaced by certification at listing creation or on an intake or application form, a continuing duty to keep designations accurate, and certification on request; listings Amplife® builds are confirmed through review with a ten (10) business day deemed confirmation. Amplife® may assess and re-designate; a Disabled-Solution designation may be vendor-certified or applied by Amplife®.
+
+- **[CLARIFIED] HSA/FSA eligibility and media sourcing.** The eligibility warranty attaches whether the vendor flags a listing or confirms a flag Amplife® applied; media files are checked whether the vendor provides them by any means or Amplife® sources them from the vendor's public-facing channels or shared materials.
 
 - **[NEW TERM] Program Policy status and order of precedence.** The Guidelines now open by identifying themselves as a Program Policy under the Amplife® Vendor Participation Agreement and the Sell with Amplife® Service Terms, with any conflict resolved by giving precedence first to the Agreement, then the Service Terms, then the Guidelines.
 

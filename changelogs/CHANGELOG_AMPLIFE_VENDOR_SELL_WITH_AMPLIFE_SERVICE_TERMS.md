@@ -15,9 +15,15 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated June 10, 2026*
+*In effect July 23, 2026 to present · Supersedes the version dated June 10, 2026*
+
+- **[NEW TERM] [MECHANICS] Listings we build for you; Listing Review.** Listings Amplife® prepares on a vendor's behalf are confirmed through a review notice sent by email, text, or another channel we use with the vendor; the vendor's approval in any recorded form, or ten (10) business days without a correction, confirms the Listing as prepared, including its Listing Type designations, required information, warnings, and any HSA/FSA eligibility flag.
+
+- **[REVISED] [MECHANICS] Listing Type certification: three paths, no annual cycle.** Certification now attaches at Listing creation, on an intake or application form, or through Listing Review, with a continuing duty to keep designations accurate and certification on our request; the separate annual re-certification cycle is discontinued (the INFORM Consumers Act annual certification is unchanged). Amplife® may assess and re-designate using the Listing, product information, and public-facing channels; a Disabled-Solution designation may be vendor-certified or applied by Amplife®.
+
+- **[CLARIFIED] HSA/FSA eligibility warranty, dual path.** The eligibility warranty attaches whether the vendor flags a Listing or confirms an HSA/FSA flag Amplife® applied through Listing Review.
 
 - **[REVISED] [CLARIFIED] Definitions consolidated into the Vendor Participation Agreement.** Terms shared with the Agreement ("Affiliate," "Amplife® Site," "Law," "Listing," "Sales Proceeds," "Selling Plan" and the plan definitions, "Your Materials," and others) are no longer restated in the Service Terms; they now carry the meanings given in the Agreement, expressly "so that the two documents cannot drift." The document-precedence rule is restated to run first the Agreement, then these Service Terms, then the Program Policies, notwithstanding any contrary statement in a lower-order document.
 

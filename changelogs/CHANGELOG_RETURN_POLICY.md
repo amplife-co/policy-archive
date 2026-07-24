@@ -15,9 +15,17 @@
 
 ---
 
-## Version dated July 15, 2026 (Current)
+## Version dated July 23, 2026 (Current)
 
-*In effect July 15, 2026 to present · Supersedes the version dated June 10, 2026*
+*In effect July 23, 2026 to present · Supersedes the version dated July 15, 2026*
+
+- **[CLARIFIED] Return receipt wording.** "Once we receive and inspect your returned item" is restated as "Once your return is received and inspected," reflecting that returns are received and inspected by the seller of record (the vendor for vendor listings), consistent with the Shipping Policy's seller-of-record framework. No right or timeline changed.
+
+---
+
+## Version dated July 15, 2026
+
+*In effect July 15, 2026 to July 23, 2026 · Supersedes the version dated June 10, 2026*
 
 - **[REVISED] [PROTECTS CUSTOMERS] Standard return window: floor, not default.** The 30-day return window is restated as a minimum: customers have "at least 30 days," and vendors may extend, but never shorten, that window. The prior version permitted a vendor-specified window to displace the 30-day default.
 
