@@ -1,4 +1,4 @@
-Last Updated: July 15th, 2026
+Last Updated: July 23rd, 2026
 
 ## **What This Policy Covers**
 
@@ -105,7 +105,7 @@ If you paid using a Health Savings Account (HSA) or Flexible Spending Account (F
 
 ## **Refund Processing**
 
-Once we receive and inspect your returned item, we aim to notify you within 3 business days of whether your refund has been approved. If approved, we aim to issue your refund to your original payment method within 10 business days of approval. Processing times vary by bank or payment provider and are outside our control.
+Once your return is received and inspected, we aim to notify you within 3 business days of whether your refund has been approved. If approved, we aim to issue your refund to your original payment method within 10 business days of approval. Processing times vary by bank or payment provider and are outside our control.
 
 If 15 business days have passed since we notified you of refund approval and you have not received your refund, contact us at hello@amplife.co.
 

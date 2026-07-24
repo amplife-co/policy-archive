@@ -1,5 +1,5 @@
 # 7-16-26
-Last Updated: July 16th, 2026
+Last Updated: July 23rd, 2026
 
 These Listing Guidelines are a Program Policy under the [Amplife® Vendor Participation Agreement](https://help.amplife.co/en-US/amplife-vendor-participation-agreement-537645) ("Agreement") and the [Sell with Amplife® Service Terms](https://help.amplife.co/en-US/sell-with-amplife-service-terms-524172) ("Service Terms"). If these Guidelines conflict with the Agreement or the Service Terms, the conflict is resolved by giving precedence first to the Agreement, then the Service Terms, then these Guidelines.
 
@@ -30,7 +30,7 @@ If your listing requires a warning under California Health and Safety Code Secti
 
 ### HSA and FSA designations
 
-If you designate a listing as eligible for purchase using Health Savings Account (HSA) or Flexible Spending Account (FSA) funds, the listing must qualify as an eligible medical expense under applicable IRS guidelines and regulations at the time of listing and for as long as the designation remains active. You are solely responsible for the accuracy of any HSA or FSA eligibility designation. If you become aware that a designation is no longer accurate, promptly notify us at hello@amplife.co and update the listing. For details, including your responsibility for claims arising from an inaccurate designation, check out the [Sell with Amplife® Service Terms](https://help.amplife.co/en-US/sell-with-amplife-service-terms-524172#1-your-listings-and-orders).
+If you designate a listing as eligible for purchase using Health Savings Account (HSA) or Flexible Spending Account (FSA) funds, or confirm an eligibility designation we have applied (including through the listing review process), the listing must qualify as an eligible medical expense under applicable IRS guidelines and regulations at the time of listing and for as long as the designation remains active. You are solely responsible for the accuracy of any HSA or FSA eligibility designation. If you become aware that a designation is no longer accurate, promptly notify us at hello@amplife.co and update the listing. For details, including your responsibility for claims arising from an inaccurate designation, check out the [Sell with Amplife® Service Terms](https://help.amplife.co/en-US/sell-with-amplife-service-terms-524172#1-your-listings-and-orders).
 
 ## Content
 
@@ -175,7 +175,7 @@ All images, videos, gifs, and 3D models that provide a visual demonstration of y
 
 Failure to comply with these requirements may cause a listing to not be approved until all are met.
 
-When you upload your Media files, they are checked to confirm that they meet all requirements. Media failing to meet these requirements will not be uploaded to your listings. If your Media violates the [Program Policies](https://help.amplife.co/en-US/articles/program-policies-140786), the listing will be removed until compliant Media is provided.
+When you provide Media files by any means, or we source them from your public-facing channels or from materials you share with us, they are checked to confirm that they meet all requirements. Media failing to meet these requirements will not be uploaded to your listings. If your Media violates the [Program Policies](https://help.amplife.co/en-US/articles/program-policies-140786), the listing will be removed until compliant Media is provided.
 
 ### Media tips
 
@@ -331,7 +331,7 @@ Who is serving the disabled community and how the listing serves the disabled co
       - Owned means people with disabilities currently hold at least 51% of the ownership of the business and bear its financial risk.
       - Operated means people with disabilities currently run the day-to-day operations of the business and hold a stake in it.
       - Controlled means people with disabilities currently hold the power to direct the management, policies, and financial decisions of the business.
-  - Satisfying any one of these prongs qualifies the business as Disabled-Owned. Owned, operated, and controlled describe the business as it is today and are reconfirmed at each annual recertification; founded describes its origin and does not expire. A business that satisfies none of the four prongs does not qualify.
+  - Satisfying any one of these prongs qualifies the business as Disabled-Owned. Owned, operated, and controlled describe the business as it is today; founded describes its origin and does not expire. A designation that stops being accurate must be promptly updated. A business that satisfies none of the four prongs does not qualify.
 
 ### Disabled-Designed requirements
 
@@ -348,8 +348,8 @@ Who is serving the disabled community and how the listing serves the disabled co
 
 ### Listing Type certification
 
-  - You certify the accuracy of every Listing Type designation when you create a listing.
-  - You must re-certify your Listing Type designations annually, and upon our request you must provide supporting documentation.
+  - You certify the accuracy of every Listing Type designation when you create a listing or select it on an intake or application form. Where we create or update a listing on your behalf, we make it available for your review and notify you by email, text message, or another contact method we use with you; your approval in any recorded form, or ten (10) business days passing without a correction, confirms the listing as prepared, including its designations.
+  - You must re-certify your Listing Type designations upon our request, with supporting documentation. If a designation stops being accurate, including through a change in ownership, operation, or control, you must promptly update or remove it and notify us. We may assess any designation using the listing, product information, and your public-facing channels, and may remove any designation our assessment does not support. You may certify a Disabled-Solution designation like any other designation, and we may also apply, confirm, or re-designate one based on our own assessment. If a designation is removed, or is not re-certified after our request, and no valid designation remains on the listing, we may suspend it until a valid designation is in place.
   - We may audit any Listing Type claim, and we may immediately remove or re-designate any Listing Type claim that we cannot verify.
   - Misrepresenting a Listing Type is a material breach of the [Amplife® Vendor Participation Agreement](https://help.amplife.co/en-US/amplife-vendor-participation-agreement-537645) and is not subject to a cure period.
   - Amplife® displays the definition of each Listing Type wherever the badge appears, so the badge always carries its stated meaning.

@@ -1,6 +1,6 @@
 # 7-16-26  
 
-Last Updated: July 16th, 2026
+Last Updated: July 23rd, 2026
 
 This Amplife® Vendor Participation Agreement ("Agreement") contains the terms and conditions that govern your participation in the Amplife® Vendor Program and a suite of optional services for Vendors including: Sell with Amplife®, Amplife® Love, Amplife® Brand Experience, and Amplife® Advertising, described in their Service Terms and policies ("Program"). Please read our terms and conditions carefully before you join our Program or begin marketing our Program. By registering for or using the Program, you agree to be bound by the terms of this Agreement. Each Vendor is responsible for assuring that its employees, agents and contractors comply with these terms and conditions. Thank you.
 
@@ -78,7 +78,7 @@ As used in this Agreement:
 
 "Vendor Account" means the account we make available to you to access the Vendor Portal and participate in the Program, including its associated email address of record.
 
-"Vendor Content" means your brand's name, logos, trademarks, product images, product descriptions, mission statements, brand story, and other content and materials, whether provided directly by you through email, the Vendor Portal, displayed on your listings or vendor profile, or publicly available on your website, social media accounts, or other public-facing channels.
+"Vendor Content" means your brand's name, logos, trademarks, product images, product descriptions, mission statements, brand story, and other content and materials, whether provided directly by you by any means (including email, the Vendor Portal, file-sharing links or folders such as Google Drive or Dropbox, and photo or media libraries such as Flickr, including materials added to any folder or library you share with us while your participation continues), displayed on your listings or vendor profile, or publicly available on your website, social media accounts, or other public-facing channels.
 
 "Vendor Portal" means the online portal and tools made available by Amplife® to you, for your use in managing your orders, Your Listings, and presence on a particular Amplife® Site or any other online point of presence.
 
@@ -165,7 +165,7 @@ Participation as a matching Vendor is optional. You may enroll or withdraw throu
 
 ## 3\. Term and Termination
 
-The terms of this Agreement will start on the date of your completed registration for use of a Service and continue until terminated by us or you as provided below. Either party may terminate this Agreement or any Service at any time, with or without cause, on 30 days' written notice. You may also terminate your account or this Agreement immediately on notice to us via email to hello@amplife.co, the contact form, or similar means. We may suspend or terminate your account or this Agreement immediately if we determine that:
+The terms of this Agreement will start on the date of your completed registration for use of a Service and continue until terminated by us or you as provided below. Either party may terminate this Agreement or any Service at any time, with or without cause, on 30 days' written notice. If Amplife® permanently removes you from any Amplife® program for violating that program's terms, that removal applies across all Amplife® programs, including this one. You may also terminate your account or this Agreement immediately on notice to us via email to hello@amplife.co, the contact form, or similar means. We may suspend or terminate your account or this Agreement immediately if we determine that:
 
 (a) you have materially breached the Agreement and failed to cure within 7 days of a cure notice unless your breach exposes us to liability toward a third party, in which case we are entitled to reduce, or waive, the aforementioned cure period at our reasonable discretion;
 
