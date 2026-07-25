@@ -1,3 +1,5 @@
+# **Amplife® Privacy Policy**
+
 Last Updated: July 15th, 2026
 
 This Privacy Policy describes how AMPLIFE LLC, a California limited liability company ("Amplife®", "we", "us", or "our"), collects, uses, and discloses your Personal Information when you visit or make a purchase from amplife.co and its subdomains, including account.amplife.co and love.amplife.co (together, "the Site").
@@ -16,7 +18,7 @@ When you visit the Site, we collect certain information about your device and yo
 
 We collect Device Information using the following technologies:
 
-  - "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies and how to disable them, visit[ http://www.allaboutcookies.org](http://www.allaboutcookies.org).  
+  - "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies and how to disable them, visit[ https://www.allaboutcookies.org](https://www.allaboutcookies.org).  
       
   - "Log files" track actions occurring on the Site and collect data including your IP address, browser type, Internet service provider, referring and exit pages, and date and time stamps.  
       

@@ -1,3 +1,5 @@
+# **Amplife® Love Privacy Policy**
+
 Last Updated: July 16th, 2026
 
 At Amplife®, privacy is a fundamental human right. It is also one of our core values. We are committed to protecting your privacy, and we support a policy of openness about how we collect, use and disclose your Personal Information.

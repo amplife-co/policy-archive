@@ -1,8 +1,10 @@
+# **Team Amplife® Privacy Policy**
+
 Last Updated: July 16th, 2026
 
 At Amplife®, privacy is a fundamental human right. It is also one of our core values. We are committed to protecting your privacy, and we support a policy of openness about how we collect, use and disclose your Personal Information.
 
-"We," "us," or "our" refers to Amplife LLC ("Amplife®"). "You" or "your" refers to the Official Representative and Ambassador participating or seeking to participate in the Team Amplife® Program (the "Program").
+"We," "us," or "our" refers to AMPLIFE LLC ("Amplife®"). "You" or "your" refers to the Official Representative and Ambassador participating or seeking to participate in the Team Amplife® Program (the "Program").
 
 This Privacy Policy covers the Personal Information we handle in connection with the Team Amplife® Program, including the[ Ambassador Portal](https://team.amplife.co) at[ team.amplife.co](https://team.amplife.co), the Program application, and Ambassador Pages and Program features on[ amplife.co](https://www.amplife.co/) (together, for purposes of this Policy, the "Website"), and the related services we provide (the "Services"). Shopping on amplife.co generally is covered by the[ Amplife® Privacy Policy](https://www.amplife.co/policies/privacy-policy), and health-related information is additionally covered by the[ Amplife® Consumer Health Data Privacy Notice](https://www.amplife.co/pages/consumer-health-data-privacy-notice). Where those documents and this Policy overlap, the document specific to the activity applies.
 
@@ -281,7 +283,7 @@ Each Social Platform's own terms of service and privacy policy govern how that p
 
 # **Contacting Amplife®**
 
-For questions about this Privacy Policy, our privacy practices, or how a third-party service provider is acting on our behalf, or if you believe that we have failed to adhere to this Privacy Policy, you may[ contact us](https://amplife.co/contact), email hello@amplife.co, or write to Amplife LLC, P.O. Box 4041, Antioch, CA 94531.
+For questions about this Privacy Policy, our privacy practices, or how a third-party service provider is acting on our behalf, or if you believe that we have failed to adhere to this Privacy Policy, you may[ contact us](https://amplife.co/contact), email hello@amplife.co, or write to AMPLIFE LLC, P.O. Box 4041, Antioch, CA 94531.
 
 Amplife® takes your privacy questions seriously. Our team reviews your inquiry to determine how best to respond. We aim to respond to all substantive contacts within seven days. We may require additional information or let you know that we need more time to respond. Requests to exercise privacy rights are answered within the timeframes required by applicable law.
 

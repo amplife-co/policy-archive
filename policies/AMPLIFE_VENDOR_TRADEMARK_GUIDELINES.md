@@ -1,4 +1,4 @@
-# 7-16-26  
+# **Amplife® Vendor Trademark Guidelines**
 
 Last Updated: July 16th, 2026
 
@@ -47,7 +47,6 @@ You will not misrepresent or embellish the relationship between you and Amplife�
 4.  Comply with the most up-to-date version of these Guidelines; and
 5.  Comply with any other terms, conditions, or policies that Amplife® may issue from time to time that apply to the use of the Badge.
 
-<!-- end list -->
 
 1.  You must not alter the Badge in any manner, including but not limited to, changing the proportion, color, or font of the Badge, or adding or removing any element(s) to or from the Badge.
 2.  The Badge must appear in its entirety, with reasonable spacing between each side of the Badge and other visual, graphic, or textual elements. The Badge must not be placed on any background that interferes with the readability or display of the Badge.

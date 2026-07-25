@@ -1,8 +1,8 @@
-# 7-16-26
+# **Amplife® Vendor Privacy Policy**
 
-Last Updated: July 16th, 2026
+Last Updated: July 24th, 2026
 
-This Amplife® Vendor Privacy Policy describes how Amplife LLC ("Amplife®", "we", "us", "our") collects, uses, shares, and protects personal information in connection with the [Amplife® Vendor Program](https://help.amplife.co/en-US/articles/program-policies-140786) and its optional services, including Sell with Amplife®, Amplife® Love vendor participation, and Amplife® Advertising (together, the "Vendor Program"). It applies to the personal information of the people behind a Vendor: owners, authorized representatives, employees, and other personnel whose information a Vendor provides to us or that we collect in operating the Vendor Program.
+This Amplife® Vendor Privacy Policy describes how AMPLIFE LLC ("Amplife®", "we", "us", "our") collects, uses, shares, and protects personal information in connection with the [Amplife® Vendor Program](https://help.amplife.co/en-US/articles/program-policies-140786) and its optional services, including Sell with Amplife®, Amplife® Love vendor participation, and Amplife® Advertising (together, the "Vendor Program"). It applies to the personal information of the people behind a Vendor: owners, authorized representatives, employees, and other personnel whose information a Vendor provides to us or that we collect in operating the Vendor Program.
 
 This policy is incorporated into and forms a part of the Amplife® Vendor Participation Agreement. It governs Vendor Program information specifically. General use of our websites, and shopping on them, is governed by the [Amplife® Privacy Policy](https://www.amplife.co/policies/privacy-policy); where you act as a Vendor Program participant, this policy controls for the Vendor Program information described here.
 

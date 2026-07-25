@@ -1,4 +1,4 @@
-# 7-16-26
+# **Amplife® Vendor Anti-Counterfeiting Policy**
 
 Last Updated: July 16th, 2026
 

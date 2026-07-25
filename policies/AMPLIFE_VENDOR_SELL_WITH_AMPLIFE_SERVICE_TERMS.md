@@ -1,4 +1,4 @@
-# 7-16-26
+# **Sell with Amplife® Service Terms**
 
 Last Updated: July 23rd, 2026
 
@@ -14,7 +14,7 @@ Capitalized terms used but not defined in these Service Terms have the meanings 
 
 As used in these Service Terms:
 
-"[Amplife® Refund Policy](https://www.amplife.co/policies/refund-policy)" means the [return and refund policies](https://www.amplife.co/policies/refund-policy) published on the applicable Amplife® Site and applicable to Listings offered via an Amplife® Site, as updated from time to time.
+"[Amplife® Return Policy](https://www.amplife.co/policies/refund-policy)" means the [return and refund policies](https://www.amplife.co/policies/refund-policy) published on the applicable Amplife® Site and applicable to Listings offered via an Amplife® Site, as updated from time to time.
 
 "Confirmed Delivery Date" means, for a Standard Listing order, the date the carrier's tracking records delivery to the customer or, if the carrier does not record a delivery, seven (7) calendar days after the date of shipment, unless there is credible evidence the order was not delivered.
 
@@ -149,7 +149,7 @@ Insurance requirements vary based on your listing categories. General vendors ar
 
 ### 2.2 Cancellations, Returns, and Refunds
 
-The [Amplife® Refund Policy](https://www.amplife.co/policies/refund-policy) for an Amplife® Site will apply to Standard Listings. You acknowledge that the [Amplife® Refund Policy](https://www.amplife.co/policies/refund-policy) may be updated from time to time and that the version in effect at the time of each transaction governs that transaction. You will promptly accept, calculate, and process cancellations, returns, refunds, and adjustments in accordance with the Agreement and the [Amplife® Refund Policy](https://www.amplife.co/policies/refund-policy) for the applicable Amplife® Site, using the functionality we enable for your account. Without limiting your obligations, we may in our sole discretion accept, calculate, and process cancellations, returns, refunds, and adjustments for the benefit of customers.
+The [Amplife® Return Policy](https://www.amplife.co/policies/refund-policy) for an Amplife® Site will apply to Standard Listings. You acknowledge that the [Amplife® Return Policy](https://www.amplife.co/policies/refund-policy) may be updated from time to time and that the version in effect at the time of each transaction governs that transaction. You will promptly accept, calculate, and process cancellations, returns, refunds, and adjustments in accordance with the Agreement and the [Amplife® Return Policy](https://www.amplife.co/policies/refund-policy) for the applicable Amplife® Site, using the functionality we enable for your account. Without limiting your obligations, we may in our sole discretion accept, calculate, and process cancellations, returns, refunds, and adjustments for the benefit of customers.
 
 For Showcase Listings, you will accept returns in accordance with the terms of Your Sales Channels.
 

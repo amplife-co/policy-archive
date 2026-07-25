@@ -1,4 +1,4 @@
-# 7-16-26
+# **Amplife® Brand Experience Service Terms**
 
 Last Updated: July 16th, 2026
 

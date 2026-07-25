@@ -1,6 +1,6 @@
-# 7-16-26  
+# **Amplife® Vendor Restricted Listings Policy**
 
-Last Updated: July 16th, 2026
+Last Updated: July 24th, 2026
 
 Listings offered on Amplife® must comply with all international, federal, state, and local laws and regulations and with our [Program Policies](https://help.amplife.co/en-US/articles/program-policies-140786). The sale or advertisement of illegal or unsafe listings is prohibited, and can also lead to legal action, including civil and criminal penalties.
 
@@ -23,7 +23,13 @@ All listings must serve the disabled community:
 
 ### Disabled-Owned
 
-at least 51% founded, owned, operated, or controlled by people with disabilities.
+Founded by people with disabilities (at least half of the founders), or at least 51% owned, operated, or controlled by people with disabilities.
+
+* Founded means at least half of the founding team were people with disabilities: they came up with the business idea and acted on it. Founding is historical: a business founded by people with disabilities keeps satisfying this prong even after ownership changes.
+* Owned means people with disabilities currently hold at least 51% of the ownership of the business and bear its financial risk.
+* Operated means people with disabilities currently run the day-to-day operations of the business and hold a stake in it.
+* Controlled means people with disabilities currently hold the power to direct the management, policies, and financial decisions of the business.
+* Satisfying any one of these prongs qualifies the business as Disabled-Owned. Owned, operated, and controlled describe the business as it is today; founded describes its origin and does not expire. A designation that stops being accurate must be promptly updated.
 
 ### Disabled-Designed
 
@@ -89,7 +95,7 @@ For more information, check out:
 
 ## Restricted Guarantees
 
-Listings must comply with the [Guides for the Advertising of Warranties and Guarantees](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-239). If you use phrases like "satisfaction guaranteed" or "money-back guarantee" on Amplife®, you must be ready to give full refunds for any reason. For more information, check out the FTC’s [A Businessperson's Guide to Federal Warranty Law](http://business.ftc.gov/documents/bus01-businesspersons-guide-federal-warranty-law), [Consumer Product Warranties and Advertising](http://frwebgate.access.gpo.gov/cgi-bin/usc.cgi?ACTION=BROWSE%2526TITLE=15USCC50%2526PDFS=YES), and [Marketing on the Internet: Rules of the Road](http://business.ftc.gov/documents/bus28-advertising-and-marketing-internet-rules-road).
+Listings must comply with the [Guides for the Advertising of Warranties and Guarantees](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-239). If you use phrases like "satisfaction guaranteed" or "money-back guarantee" on Amplife®, you must be ready to give full refunds for any reason. For more information, check out the FTC’s [A Businessperson's Guide to Federal Warranty Law](https://business.ftc.gov/documents/bus01-businesspersons-guide-federal-warranty-law), [Consumer Product Warranties and Advertising](https://uscode.house.gov/view.xhtml?path=/prelim@title15/chapter50&edition=prelim), and [Marketing on the Internet: Rules of the Road](https://business.ftc.gov/documents/bus28-advertising-and-marketing-internet-rules-road).
 
 ## Required Disclosures
 
@@ -97,13 +103,13 @@ You are required to display the applicable disclosure or statement if your listi
 
   - California Air Resources Board
       
-      - Listings that are subject to California air pollution regulations, such as aftermarket auto parts must include the applicable Executive Order number or certification permitting sale into California. For more information, check out the [California Air Resources Board](http://www.arb.ca.gov/homepage.htm).
+      - Listings for products that are subject to California air pollution regulations, such as engines, aftermarket auto parts, and consumer products, must include the applicable Executive Order number or certification permitting sale into California. For more information, check out the [California Air Resources Board](https://ww2.arb.ca.gov/).
   - California Prop 65
       
-      - Listings must comply with [California's Proposition 65](http://www.oehha.ca.gov/prop65/background/p65plain.html), which requires notice to California customers of listings that contain chemicals on [California's list of chemicals known to the state to cause cancer or reproductive toxicity](http://oehha.ca.gov/prop65/prop65_list/files/p65single090211.pdf). Listings containing chemicals on California's list must contain the applicable notice. If we determine that a listing requires a Proposition 65 warning that has not been provided, the listing will be suspended immediately and reinstated once we receive and display the required warning. For more information, check out the [California Office of Environmental Health Hazard Assessment Proposition 65](http://www.oehha.ca.gov/prop65/background/p65plain.html).
-  - Consumer Product Safety Improvement Act (CPSIA)
+      - Listings must comply with [California's Proposition 65](https://oehha.ca.gov/proposition-65), which requires notice to California customers of listings that contain chemicals on [California's list of chemicals known to the state to cause cancer or reproductive toxicity](https://oehha.ca.gov/proposition-65/proposition-65-list). Listings containing chemicals on California's list must contain the applicable notice. If we determine that a listing requires a Proposition 65 warning that has not been provided, the listing will be suspended immediately and reinstated once we receive and display the required warning. For more information, check out the [California Office of Environmental Health Hazard Assessment Proposition 65](https://oehha.ca.gov/proposition-65).
+  - Children's Product Safety
       
-      - Listings of certain toys or games that contain small parts and are intended for use by children must include a CPSIA-specified statement regarding choking hazards. For more information, check out the [CPSIA Labeling Rule](http://www.cpsc.gov/smallparts).
+      - Listings of certain toys or games that contain small parts and are intended for use by children must include the required choking hazard warning statement. For more information, check out the [small parts and choking hazard labeling requirements](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1501).
   - Textile Product Descriptions
       
       - Textile listings (for example, bedding and clothing) must comply with the [Textile Products Identification Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/textile-products-identification-act-text) (the "Textile Act"), which requires the following disclosures, among others:
@@ -121,7 +127,7 @@ You are required to display the applicable disclosure or statement if your listi
           - The information regarding the country of origin should match the product's label.
           - The generic names and percentages by weight of the fibers present in the product in an amount of 5 percent or more in order of predominance using generic fiber names recognized by the Federal Trade Commission. The use of non-generic fiber names, unless specifically recognized by the Federal Trade Commission, is not permitted.
           - The fiber content should match the product's label.
-      - For more information, check out [Threading Your Way Through the Labeling Requirements Under the Textile and Wool Act](https://www.ftc.gov/tips-advice/business-center/guidance/threading-your-way-through-labeling-requirements-under-textile), the [Textile Act](http://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/textile-products-identification-act-text), the [FTC Guidelines](https://www.ftc.gov/bamboo-textiles) and the [Textile Act Regulations](http://www.ecfr.gov/cgi-bin/retrieveECFR?gp=1%2526SID=595614ea9553001c7222b5018dd6976c%2526ty=HTML%2526h=L%2526mc=true%2526r=PART%2526n=pt16.1.303).
+      - For more information, check out [Threading Your Way Through the Labeling Requirements Under the Textile and Wool Act](https://www.ftc.gov/tips-advice/business-center/guidance/threading-your-way-through-labeling-requirements-under-textile), the [Textile Act](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/textile-products-identification-act-text), the [FTC guidelines](https://www.ftc.gov/bamboo-textiles) and the [Textile Act Regulations](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-D/part-303).
   - Upholstered Furniture, Bedding and Mattress Labeling
       
       - In addition to federal disclosure requirements, listings of upholstered furniture, bedding, and mattresses must comply with state laws governing the content labeling of such listings. These labeling laws vary by state, and may specify requirements for (among other things):
@@ -136,7 +142,7 @@ You are required to submit the following information relevant to the listing and
 
   - All listings that are affected by a specific restriction, such as children’s upper clothing with drawstrings at the waist and bottom in sizes 2T to 16.
   - Instructions and manuals for the affected listings.
-  - Images all sides of your listing's packaging with the proper, warning labels, relevant safety information, compliance markings, and hazard warnings.
+  - Images of all sides of your listing's packaging with the proper warning labels, relevant safety information, compliance markings, and hazard warnings.
   - Test reports from a relevant laboratory showing the listing complies with the regulations, standards and requirements of the law and Amplife®.
   - Certificates for the applicable restriction for your listings.
 

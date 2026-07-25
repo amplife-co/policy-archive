@@ -1,3 +1,5 @@
+# **Amplife® Shipping Policy**
+
 Last Updated: July 15th, 2026
 
 ## **Who Ships Your Order**

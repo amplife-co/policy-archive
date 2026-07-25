@@ -1,3 +1,5 @@
+# **Amplife® Terms of Service**
+
 Last Updated: July 15th, 2026
 
 This website is owned and operated by AMPLIFE LLC, a California limited liability company. Throughout these Terms of Service, "Amplife," "Amplife®," "we," "us," and "our" mean AMPLIFE LLC. These Terms of Service govern amplife.co and its subdomains, including account.amplife.co and love.amplife.co (together, the "Site"). Amplife® offers the Site, including all information, tools, and services available from the Site, to you, the user, conditioned upon your acceptance of all terms, conditions, policies, and notices stated here.
@@ -435,7 +437,7 @@ There is no judge or jury in arbitration, and court review of an arbitration awa
 
 Informal resolution first. Before either of us starts an arbitration, the party with the dispute must send the other a written Notice of Dispute describing the dispute and the resolution requested. Send your notice by email to hello@amplife.co with the subject line "Legal Notice" or by mail to P.O. Box 4041, Antioch, CA 94531, Attn: Legal. We will send any notice to the email address associated with your account or order. For 60 days after a Notice of Dispute is received, you and we will try in good faith to resolve the dispute informally, and neither of us may start an arbitration during that period. Any applicable statute of limitations is paused during this 60-day period.
 
-Starting arbitration. If the dispute is not resolved informally, to begin an arbitration proceeding you must send a letter requesting arbitration and describing your claim to our registered agent, California Registered Agent Inc., 1401 21st Street STE R, Sacramento, CA 95811. The arbitration will be conducted by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules then in effect. The AAA's rules are available at[ www.adr.org](http://www.adr.org/) or by calling 1-800-778-7879.
+Starting arbitration. If the dispute is not resolved informally, to begin an arbitration proceeding you must send a letter requesting arbitration and describing your claim to our registered agent, California Registered Agent Inc., 1401 21st Street STE R, Sacramento, CA 95811. The arbitration will be conducted by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules then in effect. The AAA's rules are available at[ www.adr.org](https://www.adr.org/) or by calling 1-800-778-7879.
 
 Fees. For claims seeking $10,000 or less, we will pay all AAA filing, administration, and arbitrator fees beyond the consumer filing fee under the AAA Consumer Arbitration Rules, unless the arbitrator finds the claim frivolous. We will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous.
 

@@ -15,9 +15,23 @@
 
 ---
 
-## Version dated July 23, 2026 (Current)
+## Version dated July 24, 2026 (Current)
 
-*In effect July 23, 2026 to present · Supersedes the version dated June 23, 2025*
+*In effect July 24, 2026 to present · Supersedes the version dated July 23, 2026*
+
+- **[CLARIFIED] Referenced returns policy named correctly.** Five references to the "Amplife® Refund Policy" are corrected to the "Amplife® Return Policy," which is the actual title of that document. The linked destination is unchanged and no return or refund right is affected.
+
+- **[CLARIFIED] [LEGAL COMPLIANCE] Children's product safety heading and citation.** The heading "Consumer Product Safety Improvement Act (CPSIA)" is retitled "Children's Product Safety," and the choking hazard requirement now cites the small parts and choking hazard labeling requirements at 16 C.F.R. part 1501 rather than a retired page. The requirement itself is unchanged: affected toys and games must carry the required choking hazard warning statement.
+
+- **[CLARIFIED] California air pollution disclosure examples.** The examples are stated as engines, aftermarket auto parts, and consumer products, matching the Restricted Listings Policy. The disclosure obligation is unchanged.
+
+- **[MECHANICS] Editorial and link maintenance.** A typographical error is corrected in the packaging images requirement, insecure http links to government and standards bodies are upgraded to https, two malformed regulatory citations are corrected, and a document title is added at the head of the policy. No change in terms.
+
+---
+
+## Version dated July 23, 2026
+
+*In effect July 23, 2026 to July 24, 2026 · Supersedes the version dated June 23, 2025*
 
 - **[REVISED] [MECHANICS] Listing Type certification cadence.** Annual re-certification is replaced by certification at listing creation or on an intake or application form, a continuing duty to keep designations accurate, and certification on request; listings Amplife® builds are confirmed through review with a ten (10) business day deemed confirmation. Amplife® may assess and re-designate; a Disabled-Solution designation may be vendor-certified or applied by Amplife®.
 

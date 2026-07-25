@@ -15,9 +15,17 @@
 
 ---
 
-## Version dated July 23, 2026 (Current)
+## Version dated July 24, 2026 (Current)
 
-*In effect July 23, 2026 to present · Supersedes the version dated June 10, 2026*
+*In effect July 24, 2026 to present · Supersedes the version dated July 23, 2026*
+
+- **[MECHANICS] Maintenance only, no change in terms.** The company name is normalized to AMPLIFE LLC, the filed form of the entity name, in the one place it appeared in mixed case; the American Arbitration Association link is upgraded to https; and a document title is added at the head of the Agreement. No right, obligation, fee, or timeline is affected.
+
+---
+
+## Version dated July 23, 2026
+
+*In effect July 23, 2026 to July 24, 2026 · Supersedes the version dated June 10, 2026*
 
 - **[CLARIFIED] Vendor Content, by any means.** The Vendor Content definition now expressly covers materials provided by any means, including email, the Vendor Portal, file-sharing links or folders such as Google Drive or Dropbox, and photo or media libraries such as Flickr, including materials added to a folder or library you share with us while participation continues.
 

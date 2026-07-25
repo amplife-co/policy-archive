@@ -15,9 +15,19 @@
 
 ---
 
-## Version dated July 16, 2026 (Current)
+## Version dated July 24, 2026 (Current)
 
-*In effect July 16, 2026 to present · Supersedes the version dated April 25, 2025*
+*In effect July 24, 2026 to present · Supersedes the version dated July 16, 2026*
+
+- **[REVISED] [CLARIFIED] Disabled-Owned definition conformed to the Listing Guidelines and the Sell with Amplife® Service Terms.** The Disabled-Owned requirement is restated as founded by people with disabilities (at least half of the founders), or at least 51% owned, operated, or controlled by people with disabilities, replacing the prior "at least 51% founded, owned, operated, or controlled" formulation. Four explanatory prongs are added: founding is historical and continues to satisfy the requirement after ownership changes; owned, operated, and controlled are measured as the business exists today; satisfying any one prong qualifies; and a designation that stops being accurate must be promptly updated. This corrects an inconsistency in which two definitions of the same designation were published at the same time; the definition in the Listing Guidelines and the Service Terms is unchanged and controls.
+
+- **[MECHANICS] Document title and link maintenance.** A document title is added at the head of the policy, insecure http links to government and standards bodies are upgraded to https, and two malformed regulatory citations are corrected.
+
+---
+
+## Version dated July 16, 2026
+
+*In effect July 16, 2026 to July 24, 2026 · Supersedes the version dated April 25, 2025*
 
 - **[NEW TERM] [MECHANICS] Program Policy framework and version archive.** The policy is designated a Program Policy under the Amplife® Vendor Participation Agreement and the Sell with Amplife® Service Terms, with any conflict resolved by giving precedence first to the Agreement, then the Service Terms, then this policy. A link to the policy version archive is added.
 

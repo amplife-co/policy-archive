@@ -1,4 +1,4 @@
-# 7-16-26  
+# **Amplife® Vendor Tax Policy**
 
 Last Updated: July 16th, 2026
 

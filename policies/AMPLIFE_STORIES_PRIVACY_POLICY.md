@@ -1,8 +1,10 @@
+# **Amplife® Stories Privacy Policy**
+
 Last Updated: July 23rd, 2026
 
 At Amplife®, privacy is a fundamental human right. It is also one of our core values. We are committed to protecting your privacy, and we support a policy of openness about how we collect, use and disclose your Personal Information.
 
-"We," "us," or "our" refers to Amplife LLC ("Amplife®"). "You" or "your" refers to the person whose Story is shared through the Amplife® Stories program (the "Program") and, where a minor participates, the parent or legal guardian acting on the minor's behalf.
+"We," "us," or "our" refers to AMPLIFE LLC ("Amplife®"). "You" or "your" refers to the person whose Story is shared through the Amplife® Stories program (the "Program") and, where a minor participates, the parent or legal guardian acting on the minor's behalf.
 
 Amplife® Stories hosts a free page on amplife.co that we build from your submission to feature your Amplife® Story (your "Amplife® Stories Page").
 
@@ -250,7 +252,7 @@ Because your Amplife® Stories Page is published content, you can also ask us at
 
 # **Contacting Amplife®**
 
-For questions about this Privacy Policy, our privacy practices, or how a third-party service provider is acting on our behalf, or if you believe that we have failed to adhere to this Privacy Policy, you may [contact us](https://amplife.co/contact), email hello@amplife.co, or write to Amplife LLC, P.O. Box 4041, Antioch, CA 94531.
+For questions about this Privacy Policy, our privacy practices, or how a third-party service provider is acting on our behalf, or if you believe that we have failed to adhere to this Privacy Policy, you may [contact us](https://amplife.co/contact), email hello@amplife.co, or write to AMPLIFE LLC, P.O. Box 4041, Antioch, CA 94531.
 
 Amplife® takes your privacy questions seriously. Our team reviews your inquiry to determine how best to respond. We aim to respond to all substantive contacts within seven days. We may require additional information or let you know that we need more time to respond. Requests to exercise privacy rights are answered within the timeframes required by applicable law.
 

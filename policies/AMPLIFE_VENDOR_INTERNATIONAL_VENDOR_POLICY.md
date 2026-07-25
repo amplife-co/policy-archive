@@ -1,4 +1,4 @@
-# 7-16-26  
+# **Amplife® International Vendor Policy**
 
 Last Updated: July 16th, 2026
 
@@ -32,15 +32,12 @@ The following apply for each Standard Listing you offer, promote, or sell on Amp
 
   - You must be prepared to respond quickly to customer service questions in the language of the country that your Standard Listings can be shipped to. You must have a customer service team who:
 
-<!-- end list -->
 
 1.  Understand your Standard Listings;
 
-<!-- end list -->
 
 1.  Knows where the customer's Standard Listing is and when it will be delivered; and
 
-<!-- end list -->
 
 1.  Can respond quickly (but in any case within 24 hours) to customer service questions in the language of the country that your Standard Listings can be shipped to.
 
@@ -72,13 +69,11 @@ For example, confirm that:
 
   - Taxes adhere to our [Tax Policy](https://help.amplife.co/en-US/tax-policy-537903). You are responsible for identifying your tax obligations in addition to the calculation, remittance, and reporting of all taxes within your obligation. You are responsible for:
 
-<!-- end list -->
 
 1.  Determining whether any taxes apply;
 2.  Accounting for any taxes due; and
 3.  Intrastat reporting to the appropriate tax authority. You are responsible for meeting any GST/VAT obligations that apply, including GST/VAT obligations in the country to which you deliver your Standard Listings and any other applicable countries.
 
-<!-- end list -->
 
   - If you are a non-U.S. vendor, you must provide the appropriate IRS Form W-8 (for example, Form W-8BEN or W-8BEN-E) and keep it current, and annually certify your identity, bank-account, tax, and contact information as described in Section 1 of the Agreement (INFORM Consumers Act) and the Tax Policy.
 

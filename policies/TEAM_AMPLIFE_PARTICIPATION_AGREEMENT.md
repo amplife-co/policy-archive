@@ -1,3 +1,5 @@
+# **Team Amplife® Participation Agreement**
+
 Last Updated: July 23rd, 2026
 
 This Team Amplife® Participation Agreement ("Participation Agreement") contains the terms and conditions that govern your participation in the Team Amplife® Program described in this Participation Agreement (the "Program"). Please read our terms and conditions carefully before you join our Program. These terms and conditions are written in plain language, intentionally avoiding legalese, so that they may be clearly understood and followed by Ambassadors. Thank you.
@@ -26,7 +28,7 @@ As used in this Participation Agreement:
       
 10. "Eligible Listing" refers to Listings explicitly defined as eligible to earn Commissions.  
       
-11. "Website" means[ amplife.co](http://amplife.co/) and any other website that we own such as[ amplifeclothing.com](http://www.amplifeclothing.com/),[ severedsociety.com](http://www.severedsociety.com/).  
+11. "Website" means[ amplife.co](https://amplife.co/) and any other website that we own such as[ amplifeclothing.com](https://www.amplifeclothing.com/),[ severedsociety.com](https://www.severedsociety.com/).  
       
 12. "Partner Site" refers to the tracking software used to credit people brought from your Ambassador Link.  
       
@@ -75,7 +77,6 @@ The application asks about you, your story, and your connection to the disabled 
 4.  are not engaged in, supporting, encouraging, or promoting:  
       
 
-<!-- end list -->
 
   - intolerance, discrimination or discriminatory practices based on race, sex, religion, nationality, disability, sexual orientation, or age;  
       
@@ -90,7 +91,6 @@ The application asks about you, your story, and your connection to the disabled 
   - other illegal, deceptive, or misleading activities; and  
       
 
-<!-- end list -->
 
 1.  are otherwise not in violation of the terms of this Participation Agreement.  
       
@@ -394,7 +394,7 @@ There is no judge or jury in arbitration, and court review of an arbitration awa
 
 Informal resolution first. Before filing an arbitration demand, the party raising the dispute will send the other party a written notice describing the dispute (for notices to us, email hello@amplife.co), and the parties will attempt in good faith to resolve the dispute informally for sixty (60) days after that notice. Any applicable statute of limitations is paused while this informal resolution period runs. Arbitration may be commenced only after that period ends without resolution.
 
-To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent, California Registered Agent Inc. 1401 21st Street STE R, Sacramento, CA 95811. The arbitration will be conducted by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules. The AAA's rules are available at[ www.adr.org](http://www.adr.org/). Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules.
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent, California Registered Agent Inc. 1401 21st Street STE R, Sacramento, CA 95811. The arbitration will be conducted by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules. The AAA's rules are available at[ www.adr.org](https://www.adr.org/). Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules.
 
 We will reimburse filing fees for non-frivolous claims, and our reimbursement and any award will not exceed the limitation of liability set forth in Section 11, unless the arbitrator determines the claims are frivolous, except that nothing in this Participation Agreement, including Section 11, limits the arbitrator's authority to award statutory damages or public injunctive relief where applicable law does not permit those remedies to be limited or waived. Likewise, we will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous.
 

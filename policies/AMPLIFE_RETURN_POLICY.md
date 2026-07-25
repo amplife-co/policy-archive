@@ -1,3 +1,5 @@
+# **Amplife® Return Policy**
+
 Last Updated: July 23rd, 2026
 
 ## **What This Policy Covers**

@@ -1,4 +1,4 @@
-# 7-16-26  
+# **Amplife® Vendor Intellectual Property Policy**
 
 Last Updated: July 16th, 2026
 
@@ -176,7 +176,6 @@ If you have received multiple warnings of IP infringement and you believe you ar
 
   - A list of the allegedly infringing listings and at least one of the following, as applicable:
 
-<!-- end list -->
 
 1.  Invoices proving the authenticity of your listings (you may remove pricing information); or
 2.  An authorization letter from the federal government agency for granting IP that demonstrates your ownership of the IP; or
@@ -189,7 +188,6 @@ If your account has been suspended because of notices of IP infringement against
 
   - A list of the allegedly infringing listings and at least one of the following, as applicable:
 
-<!-- end list -->
 
 1.  Invoices proving the authenticity of your listings (you may remove pricing information); or
 2.  An authorization letter from the federal government agency for granting IP that demonstrates your ownership of the IP; or
